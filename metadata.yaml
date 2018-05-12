@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34837'
     url: http://www.gutenberg.org/2009/agents/34837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30808#History-of-Farming-in-Ontario
 gutenberg_issued: '2009-12-30'
 gutenberg_type: Text
 identifiers:
